@@ -34,3 +34,17 @@ rm -rf %{buildroot}%{ruby_gemdir}/cache
 %{ruby_gemdir}/gems/%{oname}-%{version}
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
 %doc %{ruby_gemdir}/doc/%{oname}-%{version}
+
+
+%changelog
+* Fri May 04 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 0.6.1-1
++ Revision: 795958
+- update to 0.6.1
+- rename
+- specfile cleanup
+- rename rubygem-rack-test to ruby-rack-test according to ruby packaging policy
+
+* Mon Dec 20 2010 Rémy Clouard <shikamaru@mandriva.org> 0.5.4-2mdv2011.0
++ Revision: 623433
+- import rubygem-rack-test
+
