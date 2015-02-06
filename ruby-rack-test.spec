@@ -2,7 +2,7 @@
 
 Name:       ruby-%{oname}
 Version:    0.6.2
-Release:    1
+Release:    2
 Summary:    Simple testing API built on Rack
 Group:      Development/Ruby
 License:    MIT
