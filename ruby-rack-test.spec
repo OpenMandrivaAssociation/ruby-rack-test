@@ -6,7 +6,7 @@ Release:    2
 Summary:    Simple testing API built on Rack
 Group:      Development/Ruby
 License:    MIT
-URL:        http://github.com/brynary/rack-test
+URL:        https://github.com/brynary/rack-test
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRequires: ruby-RubyGems
 BuildArch:  noarch
